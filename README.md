@@ -1,6 +1,6 @@
 # rock_paper_scissors
 A simple rock_paper_scissors game based on python coding
-# Rock, Paper, Scissors Game 🎮
+# Rock, Paper, Scissors Game 
 
 A simple, interactive command-line Rock, Paper, Scissors game written in Python. This project serves as **Day 1** of a dedicated portfolio challenge, focusing on clean code practices, basic control flow, and input validation.
 
